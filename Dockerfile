@@ -1,7 +1,7 @@
 FROM node:17.1.0 as builder
 
 LABEL \
-  org.opencontainers.image.authors="Dillon Carns & Alex Feiszli, Gravitl, inc." \
+  org.opencontainers.image.authors="Stevin&&beijing-si-tech" \
   org.opencontainers.image.vendor="ReactJS" \
   org.opencontainers.image.url="local" \
   org.opencontainers.image.source="https://dockerhub.com/" \
