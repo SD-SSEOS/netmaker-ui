@@ -4,7 +4,7 @@ export const en: LanguageResource = {
   header: {
     login: 'Login',
     logout: 'Logout',
-    docs: 'Docs',
+    #docs: 'Docs',
     networks: 'Networks',
     nodes: 'Nodes',
     accessKeys: 'Access Keys',
